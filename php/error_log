@@ -1,0 +1,36 @@
+[30-May-2023 10:07:23 UTC] PHP Warning:  Array to string conversion in /home/ugvklome/public_html/php/prendiLibro.php on line 25
+[30-May-2023 11:14:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ugvklome/public_html/php/prestito.php on line 27
+[30-May-2023 11:14:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ugvklome/public_html/php/prestito.php on line 28
+[30-May-2023 11:14:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ugvklome/public_html/php/prestito.php on line 29
+[30-May-2023 11:14:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ugvklome/public_html/php/prestito.php on line 31
+[30-May-2023 11:14:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ugvklome/public_html/php/prestito.php on line 27
+[30-May-2023 11:14:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ugvklome/public_html/php/prestito.php on line 28
+[30-May-2023 11:14:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ugvklome/public_html/php/prestito.php on line 29
+[30-May-2023 11:14:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ugvklome/public_html/php/prestito.php on line 31
+[05-Jun-2023 07:08:05 UTC] PHP Warning:  Undefined array key "id" in /home/ugvklome/public_html/php/loginQr.php on line 2
+[05-Jun-2023 07:10:12 UTC] PHP Warning:  Undefined array key "id" in /home/ugvklome/public_html/php/loginQr.php on line 2
+[05-Jun-2023 07:10:13 UTC] PHP Warning:  Undefined array key "id" in /home/ugvklome/public_html/php/loginQr.php on line 2
+[05-Jun-2023 07:10:14 UTC] PHP Warning:  Undefined array key "id" in /home/ugvklome/public_html/php/loginQr.php on line 2
+[05-Jun-2023 07:13:41 UTC] PHP Warning:  Undefined array key "id" in /home/ugvklome/public_html/php/loginQr.php on line 2
+[05-Jun-2023 07:28:23 UTC] PHP Parse error:  syntax error, unexpected identifier "submit", expecting "," or ";" in /home/ugvklome/public_html/php/prestito.php on line 32
+[05-Jun-2023 07:28:30 UTC] PHP Parse error:  syntax error, unexpected identifier "submit", expecting "," or ";" in /home/ugvklome/public_html/php/prestito.php on line 32
+[05-Jun-2023 07:29:02 UTC] PHP Parse error:  syntax error, unexpected identifier "submit", expecting "," or ";" in /home/ugvklome/public_html/php/prestito.php on line 32
+[05-Jun-2023 10:20:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ugvklome/public_html/php/prestito.php on line 27
+[05-Jun-2023 10:20:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ugvklome/public_html/php/prestito.php on line 28
+[05-Jun-2023 10:20:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ugvklome/public_html/php/prestito.php on line 29
+[05-Jun-2023 10:20:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ugvklome/public_html/php/prestito.php on line 31
+[05-Jun-2023 10:22:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ugvklome/public_html/php/prestito.php on line 27
+[05-Jun-2023 10:22:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ugvklome/public_html/php/prestito.php on line 28
+[05-Jun-2023 10:22:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ugvklome/public_html/php/prestito.php on line 29
+[05-Jun-2023 10:22:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ugvklome/public_html/php/prestito.php on line 31
+[05-Jun-2023 10:26:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ugvklome/public_html/php/prestito.php on line 27
+[05-Jun-2023 10:26:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ugvklome/public_html/php/prestito.php on line 28
+[05-Jun-2023 10:26:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ugvklome/public_html/php/prestito.php on line 29
+[05-Jun-2023 10:26:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ugvklome/public_html/php/prestito.php on line 31
+[05-Jun-2023 10:33:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ugvklome/public_html/php/stampaQr.php:1) in /home/ugvklome/public_html/php/stampaQr.php on line 58
+[05-Jun-2023 10:36:59 UTC] PHP Warning:  Undefined variable $libri_selezionati in /home/ugvklome/public_html/php/stampaQr.php on line 17
+[05-Jun-2023 10:36:59 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ugvklome/public_html/php/stampaQr.php on line 17
+[05-Jun-2023 10:37:12 UTC] PHP Warning:  Undefined variable $libri_selezionati in /home/ugvklome/public_html/php/stampaQr.php on line 17
+[05-Jun-2023 10:37:12 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ugvklome/public_html/php/stampaQr.php on line 17
+[05-Jun-2023 10:47:11 UTC] PHP Warning:  Undefined variable $libri_selezionati in /home/ugvklome/public_html/php/stampaQr.php on line 17
+[05-Jun-2023 10:47:11 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ugvklome/public_html/php/stampaQr.php on line 17
